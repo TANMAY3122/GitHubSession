@@ -1,2 +1,2 @@
-# GitHubsession
+# GitHubSession
 here i go 
